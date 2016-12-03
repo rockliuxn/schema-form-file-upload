@@ -88,6 +88,7 @@ image = {
     placeholder: '/url/to/image'
   }
 }
+```
 
 Changelog
 -------
