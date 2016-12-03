@@ -16,7 +16,7 @@ The editor is an add-on to the Bootstrap decorator. To use it, just include
 
 Easiest way is to install is with bower, this will also include dependencies:
 ```bash
-$ bower install chengz/schema-form-file-upload
+$ bower install rockliuxn/schema-form-file-upload
 ```
 
 You'll need to load a few additional files to use the editor:
@@ -88,3 +88,7 @@ image = {
     placeholder: '/url/to/image'
   }
 }
+
+Changelog
+-------
+Details changes for each release are documented in the [release notes](https://github.com/rockliuxn/schema-form-file-upload/releases).

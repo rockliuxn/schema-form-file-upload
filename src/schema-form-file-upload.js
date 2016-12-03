@@ -1,4 +1,4 @@
-angular.module('schemaForm-file-upload', ['schemaForm', 'flow', 'mgcrea.ngStrap']).config(
+angular.module('schemaForm-file-upload', ['schemaForm', 'flow']).config(
 ['schemaFormProvider', 'schemaFormDecoratorsProvider', 'sfPathProvider',
   function(schemaFormProvider,  schemaFormDecoratorsProvider, sfPathProvider) {
 

@@ -1,12 +1,18 @@
 {
   "name": "schema-form-file-upload",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "angular-strap file upload add-on for schema form",
+  "keywords": "schema-form upload",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rockliuxn/schema-form-file-upload.git"
+  },
   "scripts": {
     "test": "rm -fr coverage && ./node_modules/karma/bin/karma start --single-run --browsers PhantomJS karma.conf.js"
   },
   "author": "Cheng Zhu",
   "license": "MIT",
+  "homepage": "https://github.com/rockliuxn/schema-form-file-upload",
   "devDependencies": {
     "chai": "^1.9.0",
     "coveralls": "^2.11.0",
